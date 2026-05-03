@@ -1,7 +1,0 @@
-[
-  { "origem": "Centro do Cabo", "destino": "Ipojuca Centro", "valor": 35, "regiao": "Cabo" },
-  { "origem": "Centro do Cabo", "destino": "Ipojuca Ruropólis", "valor": 38, "regiao": "Cabo" },
-  { "origem": "Centro do Cabo", "destino": "Ipojuca Vila do estaleiro", "valor": 30, "regiao": "Cabo" },
-  { "origem": "Centro do Cabo", "destino": "Ipojuca Campo do Avião", "valor": 35, "regiao": "Cabo" }
-
-]
